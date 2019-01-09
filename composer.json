@@ -28,5 +28,11 @@
         "psr-0": {
             "Unoconv": "src"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/PHP-FFMpeg/BinaryDriver.git"
+        }
+    ]
 }
